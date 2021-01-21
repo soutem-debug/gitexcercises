@@ -1,0 +1,35 @@
+body {
+    font: Potta One, sans-serif;
+    font-size: 20px;
+    background-color: rgba(183, 180, 207, 0.712);
+    padding: 20px;
+    color: rgb(40, 104, 31);
+    text-align: center;
+   }
+   #Outdoors {
+    background-image: https://en.wikipedia.org/wiki/Colorado(images/Outdoors.jpg);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 981px;
+    height: 180px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+  body {
+    font-family: 'Potta One', sans-serif;
+    color: rgba(202, 38, 139, 0.8);
+    font-weight: 400;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-size: 20px;
+    padding: 70px;
+  }
+  #outdoor {
+    background-image: images/outdoor.jpg;
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 981px;
+    height: 180px;
+  }
+ 
